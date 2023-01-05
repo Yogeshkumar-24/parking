@@ -16,15 +16,15 @@ To Work in localhost:
     username varchar(255),
     login varchar(255)
     
-    since there is no register , you need to manually insert values for admin in myphpadmin.
+   since there is no register , you need to manually insert values for admin in myphpadmin.
     
    ii)sql:
    
-   create table entry
-   number varchar(255) primary key,
-   type varchar(255) ,
-   time varchar(255),
-   extime varchar(255)
+     create table entry
+     number varchar(255) primary key,
+     type varchar(255) ,
+     time varchar(255),
+     extime varchar(255)
    
    
  for bike :
