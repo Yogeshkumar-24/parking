@@ -10,6 +10,7 @@ To Work in localhost:
 2. create two tables:
 
   i) sql:
+  
     create table login
     id int primary key auto_increment,
     username varchar(255),
@@ -18,6 +19,7 @@ To Work in localhost:
     since there is no register , you need to manually insert values for admin in myphpadmin.
     
    ii)sql:
+   
    create table entry
    number varchar(255) primary key,
    type varchar(255) ,
